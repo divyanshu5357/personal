@@ -1,0 +1,2 @@
+git stash apply - it leaves topmost stash on stash list so that we can use later 
+git stash pop  - [Cit removes topmost or latest stash list 
